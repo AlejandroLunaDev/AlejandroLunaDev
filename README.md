@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML-CSS-SASS-BOOTSTRAP-JAVASCRIPT-REACT-TAILWIND-MYSQL**
 
-- 💬 Ask me about **HTML-CSS-SCSS-BOOTSTRAP**
+- 💬 Ask me about **HTML-CSS-SASS-BOOTSTRAP-JAVASCRIPT-TAILWIND**
 
 - 📫 How to reach me **alejandrolunadev@gmail.com**
 
