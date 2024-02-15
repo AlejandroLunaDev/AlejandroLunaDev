@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Luna</h1>
 <h3 align="center">Soy un Estudiante enfocado y determinado a convertirme en programador.</h3>
 
-- 🌱 I’m currently learning **HTML-CSS-SCSS-BOOTSTRAP-JAVASCRIPT-JAVA**
+- 🌱 I’m currently learning **HTML-CSS-SASS-BOOTSTRAP-JAVASCRIPT-REACT-TAILWIND-MYSQL**
 
 - 💬 Ask me about **HTML-CSS-SCSS-BOOTSTRAP**
 
