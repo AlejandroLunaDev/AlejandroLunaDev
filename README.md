@@ -1,72 +1,88 @@
-# 👋 ¡Hola! Soy Alejandro
 
-Soy un **desarrollador frontend** enfocado en aportar valor y creatividad al equipo, dos elementos fundamentales para el desarrollo de cualquier producto digital. Mi objetivo es utilizar las mejores herramientas del mercado para crear aplicaciones web optimizadas y de alta calidad.
-
----
-
-## 💡 Habilidades
-
-### 🛠️ Tecnologías
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<h1 align="center">Hi 👋, I'm Facundo Pettersson</h1>
+<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-### 🛠️ Herramientas de Desarrollo
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" alt="Word" />
-  <img src="https://img.shields.io/badge/RunJs-1B1F23?style=flat&logo=javascript&logoColor=white" alt="RunJs" />
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I am currently studying Software Engineering in **Jala University**
+
+- 🌱 Currently, I am learning **Java**
+
+- 💬 Ask me about **Javascrip/Typescript, React JS**
+
+- 📫 How to reach me **petterssonfacundo@gmail.com**
+
+
+<br>
+<h3 align="left">Connect with me:</h3>
+
+<a href="https://www.linkedin.com/in/facundo-pettersson-ba219b22a/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" />
+
+</a>
+
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind,materialui,sass" />
+  </a>
 </p>
 
-### 🤝 Colaboración en Equipo
-<p>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord" />
+
+
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,photoshop,vscode,prettier" />
+  </a>
 </p>
 
----
+<br/>
 
-## 🛠️ Habilidades Blandas
-- Comunicación efectiva
-- Mentoría de equipo
-- Organización
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
----
 
-## 🚀 Compromiso con la Mejora Continua
 
-Estoy comprometido con la mejora continua y me apasiona aprender y aplicar nuevas tecnologías para contribuir al éxito de proyectos innovadores y desafiantes. 🌟
 
-Si estás buscando un desarrollador frontend dedicado y con una visión integral del desarrollo web, estaré encantado de conectar y explorar cómo puedo aportar valor a tu equipo.
 
----
 
-## 📊 Mi Progreso en GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlejandroLunaDev&show_icons=true&hide_border=true&theme=radical) 
 
----
 
-## 🌍 Conectemos
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-- [LinkedIn](tu_linkedin)
-- [Portfolio](tu_portafolio)
-- [Twitter](tu_twitter)
-
----
-
-¡Gracias por visitar mi perfil! 🎉
+<br>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Facundo Pettersson</a></p>
