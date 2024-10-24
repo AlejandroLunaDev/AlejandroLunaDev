@@ -84,7 +84,7 @@
 <h3 align="left">Estadísticas de GitHub:</h3>
 <div align="center">
 ![Estadísticas de GitHub de Alejandro](https://github-readme-stats.vercel.app/api?username=tu-usuario&theme=midnight-purple&show_icons=true&hide=contribs,issues)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tu-usuario&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlejandroLunaDev&theme=midnight-purple)](https://git.io/streak-stats)
 </div>
 
 <br><br>
@@ -92,7 +92,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Actividad:</h3>
-![Gráfico de Actividad de Alejandro](https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&custom_title=Actividad%20de%20Alejandro&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Gráfico de Actividad de Alejandro](https://github-readme-activity-graph.vercel.app/graph?username=AlejandroLunaDev&custom_title=Actividad%20de%20Alejandro&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br><br>
 
