@@ -57,7 +57,7 @@ Si estás buscando un desarrollador frontend dedicado y con una visión integral
 
 ## 📊 Mi Progreso en GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_border=true&theme=radical) 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlejandroLunaDev&show_icons=true&hide_border=true&theme=radical) 
 
 ---
 
