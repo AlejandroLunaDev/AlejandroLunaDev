@@ -11,7 +11,7 @@
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alejandro-luna-dev">
+  <a href="https://www.linkedin.com/in/alejandro-ortiz-luna">
     <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Luna-F97316?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
   </a>
   <a href="https://alejandrolunadev.site/es">
@@ -113,7 +113,7 @@ Personal finance app concept with shared spaces, recurring expenses, projections
 ## Contribution calendar
 
 <div align="center">
-  <img width="98%" src="https://ghchart.rshah.org/F97316/AlejandroLunaDev" alt="Alejandro Luna GitHub contribution calendar" />
+  <img width="98%" src="./metrics.plugin.calendar.svg" alt="Alejandro Luna GitHub contribution calendar" />
 </div>
 
 <br />
