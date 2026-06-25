@@ -110,14 +110,6 @@ Personal finance app concept with shared spaces, recurring expenses, projections
 
 <br />
 
-## Contribution calendar
-
-<div align="center">
-  <img width="98%" src="./metrics.plugin.calendar.svg" alt="Alejandro Luna GitHub contribution calendar" />
-</div>
-
-<br />
-
 ## GitHub analytics
 
 <div align="center">
