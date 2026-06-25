@@ -1,75 +1,172 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-  <h1>Alejandro Luna</h1>
-  <h3>Frontend Engineer · Architecture-first · Buenos Aires 🇦🇷</h3>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:F97316,100:111827&text=Alejandro%20Luna&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Lead%20%7C%20AI-powered%20Products&descAlignY=58&descSize=18" />
+</div>
 
-  <p>
-    I build web products where structure matters as much as features.<br/>
-    Clean Architecture, DDD, and Atomic Design are not buzzwords to me —<br/>
-    they're the reason my code is still readable six months later.
-  </p>
-
-  <a href="https://www.linkedin.com/in/alejandro-luna-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alejandrolunadev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=I+build+full+stack+products+with+real+users+and+real+data;AI-powered+platforms+%C2%B7+Dashboards+%C2%B7+Developer+tooling;Clean+Architecture+%C2%B7+SOLID+%C2%B7+Specification-driven+development" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
-<h3 align="left">⚡ What I actually do</h3>
-
-<ul>
-  <li>Ship production-grade React / Next.js apps with real users and real data</li>
-  <li>Design systems using <b>Hexagonal / Clean / Screaming Architecture</b> and <b>DDD</b> principles</li>
-  <li>Build data visualizations with <b>D3.js</b> — charts that inform, not just decorate</li>
-  <li>Write <b>tests first</b> — strict TDD is a discipline, not an afterthought</li>
-  <li>Work in a terminal-first setup: <b>LazyVim · Tmux · Zellij</b></li>
-</ul>
-
-<br />
-
-<h3 align="left">🛠️ Stack</h3>
 <div align="center">
-  <p><b>Frontend</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,materialui,html,css,sass,figma" />
+  <a href="https://www.linkedin.com/in/alejandro-luna-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Luna-F97316?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
   </a>
-
-  <br/><br/>
-  <p><b>Backend & Data</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,supabase" />
+  <a href="https://alejandrolunadev.site/es">
+    <img src="https://img.shields.io/badge/Portfolio-alejandrolunadev.site-F97316?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
   </a>
-
-  <br/><br/>
-  <p><b>DevOps & Tooling</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,cloudflare,linux,nginx,vscode,postman" />
+  <a href="mailto:alejandrodevfullstack@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-F97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
   </a>
 </div>
 
 <br />
 
-<h3 align="left">📈 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroLunaDev&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=AlejandroLunaDev&theme=midnight-purple" alt="Streak" />
-</div>
+## Building products where architecture, UX and business logic meet
 
-<br />
+I am a **Full Stack Developer & Frontend Lead** focused on building scalable platforms, AI-assisted workflows, dashboards, real-time systems and developer tooling.
 
-<h3 align="left">📊 Activity</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroLunaDev&custom_title=Alejandro's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" />
-</div>
+My work combines **frontend architecture**, **backend systems**, **data-driven interfaces** and **AI product thinking**. I care about clean boundaries, readable code, documented decisions and systems that can survive product changes.
 
 <br />
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-  <p><i>"Concepts over code. Foundations over frameworks. Understanding over copying."</i></p>
+
+| Product Engineering | AI & Data Interfaces | Architecture |
+| --- | --- | --- |
+| Next.js · React · NestJS | OpenRouter · Gemini · MCP | Clean Architecture · SOLID |
+| Supabase · PostgreSQL · MongoDB | Dashboards · Maps · Metrics | Feature-first · DDD · SDD |
+| WebSockets · APIs · Auth | Agentic workflows · LLM UX | Modular systems · Maintainability |
+
+</div>
+
+<br />
+
+## Current focus
+
+```txt
+AI-powered platforms       B2B / B2G dashboards       Developer tooling
+Real-time communication    Backend systems            Data visualization
+Frontend architecture      Product thinking           Terminal-first workflows
+```
+
+<br />
+
+## Featured work
+
+<div align="center">
+  <a href="https://github.com/AlejandroLunaDev/espectro">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroLunaDev&repo=espectro&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&icon_color=F97316" />
+  </a>
+  <a href="https://github.com/AlejandroLunaDev/nocountry">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroLunaDev&repo=nocountry&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&icon_color=F97316" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/AlejandroLunaDev/admin-crm-panel">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroLunaDev&repo=admin-crm-panel&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&icon_color=F97316" />
+  </a>
+  <a href="https://github.com/AlejandroLunaDev/reve">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroLunaDev&repo=reve&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&icon_color=F97316" />
+  </a>
+</div>
+
+<br />
+
+### Espectro
+
+AI-assisted B2G platform for public-sector decision makers. It combines geographic connectivity data, social indicators and natural language queries to support digital inclusion analysis.
+
+**Stack:** React · Tailwind CSS · Node.js · Supabase · PostgreSQL · Python · pnpm · Turborepo
+
+### No Country Platform Work
+
+Simulation and team-observation platform work across frontend, metrics, chat, dashboards, integrations and real-time product experiences.
+
+**Stack:** Next.js · NestJS · Prisma · Supabase · MongoDB · Socket.IO · Tailwind · shadcn/ui
+
+### Developer Tooling / Agentic Workflows
+
+Exploring tools for AI-assisted development, local observability, terminal-first workflows, MCP integrations and usage analytics for developers and teams.
+
+**Stack:** Electron · React · TypeScript · Go · SQLite · MCP
+
+<br />
+
+## Tech stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite,astro" />
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,supabase,prisma,mongodb,docker" />
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,pnpm,linux,bash,figma" />
+
+</div>
+
+<br />
+
+## GitHub analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlejandroLunaDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&icon_color=F97316&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroLunaDev&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&langs_count=8" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlejandroLunaDev&theme=github_dark" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlejandroLunaDev&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlejandroLunaDev&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlejandroLunaDev&theme=github_dark&utcOffset=-3" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroLunaDev&theme=github-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=F97316&point=FFFFFF&area=true&area_color=F97316" />
+</div>
+
+<br />
+
+## How I work
+
+```txt
+1. Understand the product problem
+2. Define boundaries and business rules
+3. Design a maintainable architecture
+4. Ship incrementally with clean interfaces
+5. Use AI as an execution amplifier, not as a replacement for reasoning
+```
+
+<br />
+
+## Principles
+
+- Architecture should make change cheaper.
+- Business rules should be explicit.
+- UI should explain the product, not hide it.
+- AI workflows need structure, context and validation.
+- Good software is not only code; it is product clarity translated into systems.
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:F97316,100:0D1117" />
 </div>
