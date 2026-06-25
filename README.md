@@ -1,52 +1,58 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:F97316,100:111827&text=Alejandro%20Luna&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Lead%20%7C%20AI-powered%20Products&descAlignY=58&descSize=18" />
+</div>
 
-# Alejandro Luna
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=I+build+full+stack+products+with+real+users+and+real+data;AI-powered+platforms+%C2%B7+Dashboards+%C2%B7+Developer+tooling;Clean+Architecture+%C2%B7+SOLID+%C2%B7+Specification-driven+development" alt="Typing SVG" />
+  </a>
+</div>
 
-### Full Stack Developer & Frontend Lead  
-#### AI-powered products · Scalable frontend architecture · Backend systems · Developer tooling
+<br />
 
-I build digital products where architecture, UX, business logic and AI-assisted workflows need to work together.
+<div align="center">
+  <a href="https://www.linkedin.com/in/alejandro-luna-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Luna-F97316?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+  </a>
+  <a href="https://alejandrolunadev.site/es">
+    <img src="https://img.shields.io/badge/Portfolio-alejandrolunadev.site-F97316?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
+  </a>
+  <a href="mailto:alejandrodevfullstack@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-F97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+  </a>
+</div>
+
+<br />
+
+## Building products where architecture, UX and business logic meet
+
+I am a **Full Stack Developer & Frontend Lead** focused on building scalable platforms, AI-assisted workflows, dashboards, real-time systems and developer tooling.
+
+My work combines **frontend architecture**, **backend systems**, **data-driven interfaces** and **AI product thinking**. I care about clean boundaries, readable code, documented decisions and systems that can survive product changes.
+
+<br />
+
+<div align="center">
+
+| Product Engineering | AI & Data Interfaces | Architecture |
+| --- | --- | --- |
+| Next.js · React · NestJS | OpenRouter · Gemini · MCP | Clean Architecture · SOLID |
+| Supabase · PostgreSQL · MongoDB | Dashboards · Maps · Metrics | Feature-first · DDD · SDD |
+| WebSockets · APIs · Auth | Agentic workflows · LLM UX | Modular systems · Maintainability |
 
 </div>
 
----
-
-## About me
-
-I'm a Full Stack Developer focused on building real products with clean architecture, scalable frontend systems, backend APIs and AI-assisted workflows.
-
-My work combines product thinking, frontend architecture, backend development, real-time communication, dashboards, data-driven interfaces and developer tooling.
-
-I like systems that are easy to understand, easy to extend and strong enough to survive product changes.
-
----
+<br />
 
 ## Current focus
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>AI-powered products</h3>
-      <p>Interfaces and backend workflows powered by LLMs, structured prompts, AI providers and product-specific context.</p>
-    </td>
-    <td width="50%">
-      <h3>Full stack platforms</h3>
-      <p>Production-oriented web systems using modern frontend architecture, APIs, authentication, databases and real-time features.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Developer tooling</h3>
-      <p>Terminal-first workflows, agentic development environments, observability, local analytics and AI-assisted engineering processes.</p>
-    </td>
-    <td width="50%">
-      <h3>Data-driven interfaces</h3>
-      <p>Dashboards, metrics, maps, visual analytics and decision-support interfaces for business and public-sector use cases.</p>
-    </td>
-  </tr>
-</table>
+```txt
+AI-powered platforms       B2B / B2G dashboards       Developer tooling
+Real-time communication    Backend systems            Data visualization
+Frontend architecture      Product thinking           Terminal-first workflows
+```
 
----
+<br />
 
 ## Selected work
 
@@ -54,37 +60,35 @@ I like systems that are easy to understand, easy to extend and strong enough to 
 
 B2G-oriented product concept for public-sector decision makers. It combines geographic connectivity data, social indicators and natural language queries to support digital inclusion analysis.
 
-**Focus:** maps · dashboards · AI-assisted queries · public data · decision support  
-**Stack:** React · Tailwind CSS · Node.js · Supabase · PostgreSQL · Python · pnpm · Turborepo
+**Focus:** maps · dashboards · AI-assisted queries · public data · decision support
 
----
+**Stack:** React · Tailwind CSS · Node.js · Supabase · PostgreSQL · Python · pnpm · Turborepo
 
 ### Simulation platform for teams and companies
 
 Production work across frontend, backend, chat, metrics, dashboards, PDF exports, integrations and real-time product experiences for a labor simulation platform.
 
-**Focus:** B2B workflows · team analytics · real-time communication · metrics · product scalability  
-**Stack:** Next.js · NestJS · Prisma · Supabase · MongoDB · Socket.IO · Tailwind CSS · shadcn/ui
+**Focus:** B2B workflows · team analytics · real-time communication · metrics · product scalability
 
----
+**Stack:** Next.js · NestJS · Prisma · Supabase · MongoDB · Socket.IO · Tailwind · shadcn/ui
 
 ### Developer tooling and agentic workflows
 
 Exploration of tools for AI-assisted development, local observability, terminal-first workflows, MCP integrations and usage analytics for developers and teams.
 
-**Focus:** AI agents · terminal-first development · local analytics · developer productivity  
-**Stack:** Electron · React · TypeScript · Go · SQLite · MCP
+**Focus:** AI agents · terminal-first development · local analytics · developer productivity
 
----
+**Stack:** Electron · React · TypeScript · Go · SQLite · MCP
 
 ### Mobile-first personal finance product
 
 Personal finance app concept with shared spaces, recurring expenses, projections, categories and AI-assisted classification.
 
-**Focus:** household finance · mobile UX · backend APIs · AI-assisted categorization  
+**Focus:** household finance · mobile UX · backend APIs · AI-assisted categorization
+
 **Stack:** Flutter · NestJS · Supabase · PostgreSQL · Riverpod · GoRouter
 
----
+<br />
 
 ## Tech stack
 
@@ -92,130 +96,79 @@ Personal finance app concept with shared spaces, recurring expenses, projections
 
 ### Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logo=shadcnui&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite,astro" />
 
-### Backend
+### Backend & Data
 
-![NestJS](https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,supabase,prisma,mongodb,docker" />
 
-### Databases & realtime
+### Tools & Workflow
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-111111?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### AI & tooling
-
-![OpenRouter](https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![pnpm](https://img.shields.io/badge/pnpm-111111?style=for-the-badge&logo=pnpm&logoColor=F69220)
-![Turborepo](https://img.shields.io/badge/Turborepo-111111?style=for-the-badge&logo=turborepo&logoColor=EF4444)
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,pnpm,linux,bash,figma" />
 
 </div>
 
----
+<br />
+
+## Contribution calendar
+
+<div align="center">
+  <img width="98%" src="https://ghchart.rshah.org/F97316/AlejandroLunaDev" alt="Alejandro Luna GitHub contribution calendar" />
+</div>
+
+<br />
+
+## GitHub analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlejandroLunaDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&icon_color=F97316&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroLunaDev&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&langs_count=8" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlejandroLunaDev&theme=github_dark" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlejandroLunaDev&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlejandroLunaDev&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlejandroLunaDev&theme=github_dark&utcOffset=-3" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroLunaDev&theme=github-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=F97316&point=FFFFFF&area=true&area_color=F97316" />
+</div>
+
+<br />
 
 ## How I work
 
 ```txt
-Product problem
-  ↓
-Functional specification
-  ↓
-Architecture boundaries
-  ↓
-Frontend + backend implementation
-  ↓
-Metrics, feedback and iteration
+1. Understand the product problem
+2. Define boundaries and business rules
+3. Design a maintainable architecture
+4. Ship incrementally with clean interfaces
+5. Use AI as an execution amplifier, not as a replacement for reasoning
 ```
 
-I prefer documented decisions, clear responsibilities, small modules and explicit business rules.
+<br />
 
-My workflow is increasingly terminal-first, AI-assisted and specification-driven.
+## Principles
 
----
+- Architecture should make change cheaper.
+- Business rules should be explicit.
+- UI should explain the product, not hide it.
+- AI workflows need structure, context and validation.
+- Good software is not only code; it is product clarity translated into systems.
 
-## GitHub activity
-
-<div align="center">
-
-<img width="98%" src="https://ghchart.rshah.org/F97316/AlejandroLunaDev" alt="Alejandro Luna GitHub contribution calendar" />
-
-</div>
-
----
-
-## GitHub metrics
+<br />
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlejandroLunaDev&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="Alejandro Luna GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroLunaDev&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Alejandro Luna top languages" />
-
-</div>
-
----
-
-## Profile summary
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlejandroLunaDev&theme=gruvbox" alt="Alejandro Luna GitHub profile summary" />
-
-</div>
-
----
-
-## Recent activity
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroLunaDev&theme=gruvbox&hide_border=true&area=true" alt="Alejandro Luna GitHub activity graph" />
-
-</div>
-
----
-
-## What defines my work
-
-```txt
-Clean Architecture
-SOLID principles
-Feature-first structure
-Specification-Driven Development
-AI-assisted workflows
-Real-time product experiences
-Data-driven interfaces
-Scalable frontend systems
-Backend APIs
-Product thinking
-```
-
----
-
-## Contact
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://alejandrolunadev.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alejandro-ortiz-luna)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroLunaDev)
-
-</div>
-
----
-
-<div align="center">
-
-Building software with product sense, clean architecture and AI-assisted engineering.
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:F97316,100:0D1117" />
 </div>
